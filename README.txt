@@ -1,5 +1,5 @@
 # CS-162
-Contains 2 assignments from CS 162
+Contains 2 assignments from CS 162, each within a branch
 
 Assignment 3: Demonstrate class design, polymorphism, inheritance. 
 Description_of_Assignment.PDF: The assignment prompt. 
